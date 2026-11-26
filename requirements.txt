@@ -1,0 +1,7 @@
+numpy
+librosa
+faster-whisper
+imageio-ffmpeg
+skia-python
+pillow
+tqdm
